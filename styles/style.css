@@ -201,6 +201,7 @@ a {
     background-size: 500px;
 
     @media (min-width: 768px) {
+        background-position: left top;
         background-size: 700px;
     }
 
@@ -221,16 +222,16 @@ a {
 
 .hero__text {
     margin-left: 10px;
-    padding: 100px 0;
+    padding: 170px 0 100px;
 
     @media (min-width: 768px) {
         margin-left: 150px;
-        padding-top: 160px;
+        padding-top: 100px;
 
     }
 
     @media (min-width: 1200px) {
-        padding: 320px 0 200px;
+        padding: 250px 0 200px;
     }
 }
 
