@@ -459,7 +459,7 @@ a {
 }
 
 .projects__image-container:hover {
-    max-height: 2850px;
+    max-height: 1600px;
     border-radius: none;
     transition: all 2s;
 
